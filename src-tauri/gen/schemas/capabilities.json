@@ -1,0 +1,1 @@
+{"default":{"identifier":"default","description":"default permissions","remote":{"urls":["https://discord.com/*","https://*.discord.com/*","https://*.discordapp.com/*"]},"local":true,"windows":["main"],"permissions":["core:default","core:window:allow-start-dragging","shell:allow-open"]}}
